@@ -1,4 +1,4 @@
-package github.com/ituserxxx/log33
+package log33
 
 import (
 	"bufio"
